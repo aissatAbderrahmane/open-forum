@@ -1,0 +1,9 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir="rtl" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<META CONTENT="text/html; charset=utf-8" HTTP-EQUIV="Content-Type">
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+	<script type="text/javascript" lang="javascript" src="lastworks.js"></script>
+</head>
+<body onload="javascript:main();">
+<script type="text/javascript" lang="javascript">
